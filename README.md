@@ -132,13 +132,13 @@ p.note { display: none; }
 
     
 <h2><span class="yellow">・・・この文字は挿入例・・・</span></h2>
-<a href=“20250420_001.png" target="_blank"><img src=“20250420_001.png" alt="サンプル画像" width="900" /></a>
-<a href=“20250420_002.png" target="_blank"><img src=“20250420_002.png" alt="サンプル画像" width="900" /></a>
-<a href=“20250420_003.png" target="_blank"><img src=“20250420_003.png" alt="サンプル画像" width="900" /></a>
-<a href=“20250420_004.png" target="_blank"><img src=“20250420_004.png" alt="サンプル画像" width="900" /></a>
-<a href=“20250420_005.png" target="_blank"><img src=“20250420_005.png" alt="サンプル画像" width="900" /></a>
-<a href=“20250420_006.png" target="_blank"><img src=“20250420_006.png" alt="サンプル画像" width="900" /></a>
-<a href=“20250420_007.png" target="_blank"><img src=“20250420_007.png" alt="サンプル画像" width="900" /></a>
+<a href=“20250419_001.png" target="_blank"><img src=“20250419_001.png" alt="サンプル画像" width="900" /></a>
+<a href=“20250419_002.png" target="_blank"><img src=“20250419_002.png" alt="サンプル画像" width="900" /></a>
+<a href=“20250419_003.png" target="_blank"><img src=“20250419_003.png" alt="サンプル画像" width="900" /></a>
+<a href=“20250419_004.png" target="_blank"><img src=“20250419_004.png" alt="サンプル画像" width="900" /></a>
+<a href=“20250419_005.png" target="_blank"><img src=“20250419_005.png" alt="サンプル画像" width="900" /></a>
+<a href=“20250419_006.png" target="_blank"><img src=“20250419_006.png" alt="サンプル画像" width="900" /></a>
+<a href=“20250419_007.png" target="_blank"><img src=“20250419_007.png" alt="サンプル画像" width="900" /></a>
 
     
 
