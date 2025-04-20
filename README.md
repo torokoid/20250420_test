@@ -190,7 +190,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/04/20 R. Yamashita</p>
+<p>Copyright 2025/04/20 S.Hada</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
