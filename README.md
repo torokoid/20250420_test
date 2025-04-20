@@ -131,7 +131,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
     
-<h2><span class="yellow">この文字は挿入例</span></h2>
+<h2><span class="yellow">・・・この文字は挿入例・・・</span></h2>
 <a href=“20250420_001.png" target="_blank"><img src=“20250420_001.png" alt="サンプル画像" width="900" /></a>
 <a href=“20250420_002.png" target="_blank"><img src=“20250420_002.png" alt="サンプル画像" width="900" /></a>
 <a href=“20250420_003.png" target="_blank"><img src=“20250420_003.png" alt="サンプル画像" width="900" /></a>
