@@ -141,6 +141,8 @@ p.note { display: none; }
 <a href="20250419_004.png" target="_blank"><img src="20250419_004.png" alt="サンプル画像" width="900" /></a>
 <a href="20250419_005.png" target="_blank"><img src="20250419_005.png" alt="サンプル画像" width="900" /></a>
 <a href="20250419_006.png" target="_blank"><img src="20250419_006.png" alt="サンプル画像" width="900" /></a>
+
+<h2><a href="test.txt" target="_blank">この文字クリックでhtmlのコード表示するので、それを上記にコピペする</a></h2>
 <a href="20250419_007.png" target="_blank"><img src="20250419_007.png" alt="サンプル画像" width="900" /></a>
 
 
