@@ -133,18 +133,27 @@ p.note { display: none; }
     
 <h2><span class="yellow">・・・この文字は挿入例・・・<br>事前に「haikei.JPG」と「gazou.JPG」の画像ファイルを準備のこと<br>ここから下の画像が実作業</span></h2>
 
+<h1><span class="yellow">①</span></h1>
 <a href="20250419_001.png" target="_blank"><img src="20250419_001.png" alt="サンプル画像" width="900" /></a>
+<h1><span class="yellow">②</span></h1>
 <a href="20250419_002.png" target="_blank"><img src="20250419_002.png" alt="サンプル画像" width="900" /></a>
+<h1><span class="yellow">③</span></h1>
 <a href="20250419_003.png" target="_blank"><img src="20250419_003.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">次の作業で「haikei.JPG」と「gazou.JPG」をUploadする</span></h2>
+<h1><span class="yellow">④</span></h1>
 <a href="20250419_004.png" target="_blank"><img src="20250419_004.png" alt="サンプル画像" width="900" /></a>
+<h1><span class="yellow">⑤</span></h1>
 <a href="20250419_005.png" target="_blank"><img src="20250419_005.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">緑のボタンをクリックすると、質問ダイアログが出るが、全てYesやOKで進む</span></h2>
+
+<h1><span class="yellow">⑥</span></h1>
 <a href="20250419_006.png" target="_blank"><img src="20250419_006.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow"><a href="test.txt" target="_blank">この文字クリックでhtmlのコード表示するので、それを上記にコピペする</a></span></h2>
+
+<h1><span class="yellow">⑦</span></h1>
 <a href="20250419_007.png" target="_blank"><img src="20250419_007.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">全てにおいて、作業の結果が反映されるのに最長で1分ほどかかるので、コーヒーでも飲みながらゆっくりやってください</span></h2>
