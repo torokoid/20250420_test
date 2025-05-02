@@ -151,7 +151,7 @@ p.note { display: none; }
 <h1><span class="yellow">⑥</span></h1>
 <a href="20250419_006.png" target="_blank"><img src="20250419_006.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">今回は下記「コード」の文字クリックでhtmlのコード表示するので、<br>それを上記にコピペすることで編集は終了して緑ボタンでFixします</span></h2>
+<h2><span class="yellow">今回は下記「コード」の文字クリックでhtmlのコード表示するので、<br>それを上記にコピペすることで編集は終了・・・緑ボタンでFixします</span></h2>
 <h2><span class="yellow"><a href="test.txt" target="_blank">「コード」</a></span></h2>
 
 <h1><span class="yellow">⑦</span></h1>
