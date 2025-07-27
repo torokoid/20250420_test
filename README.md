@@ -195,7 +195,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/04/20 → 07/27 一部追記 S.Hada</p>
+<p>Copyright 2025/04/20 → 2025/07/27 ⑥と⑦の工程に一部追記 S.Hada</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
