@@ -154,6 +154,7 @@ p.note { display: none; }
 
 <h1><span class="yellow">⑦</span></h1>
 <a href="20250419_007.png" target="_blank"><img src="20250419_007.png" alt="サンプル画像" width="900" /></a>
+<a href="20250419_008.png" target="_blank"><img src="20250419_008.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">全てにおいて、作業の結果が反映されるのに最長で1分ほどかかるので、コーヒーでも飲みながらゆっくりやってください</span></h2>
     
