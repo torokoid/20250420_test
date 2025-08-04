@@ -134,10 +134,11 @@ p.note { display: none; }
 
 <h1><span class="yellow">①</span></h1>
 <a href="20250419_001.png" target="_blank"><img src="20250419_001.png" alt="サンプル画像" width="900" /></a>
-<h1><span class="yellow">②Repository Nameは適当に決めて先に進みます。</span></h1>
-<a href="20250419_002.png" target="_blank"><img src="20250419_002.png" alt="サンプル画像" width="900" /></a>
-<h1><span class="yellow">③</span></h1>
-<a href="20250419_003.png" target="_blank"><img src="20250419_003.png" alt="サンプル画像" width="900" /></a>
+<h1><span class="yellow">②,③Repository Nameは適当に決めて先に進みます。</span></h1>
+<a href="20250801_001.png" target="_blank"><img src="20250801_001.png" alt="サンプル画像" width="900" /></a>
+<h1><span class="yellow">②,③2025年7月まではこんな画面でした。</span></h1>
+<a href="20250419_002.png" target="_blank"><img src="20250419_002.png" alt="サンプル画像" width="450" /></a>
+<a href="20250419_003.png" target="_blank"><img src="20250419_003.png" alt="サンプル画像" width="450" /></a>
 
 <h2><span class="yellow">次の作業で「haikei.JPG」と「gazou.JPG」をUploadする</span></h2>
 <h1><span class="yellow">④</span></h1>
